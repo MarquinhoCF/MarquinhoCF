@@ -1,8 +1,12 @@
 ## Marquinhos CF 😁
 
+<div>
+  <p>Hello and welcome to my professional profile!</p>
+  <p>My name is Marcos Carvalho Ferreira, I'm 22 years old, and I work with Software Engeneering, beside to study Control and Automation Engineering in UFLA. I'm fascinated by developing web and mobile systems, and I'm committed to building a solid academic background in this field, being passionate about technology.</p>
+</div>
+
  <div>
   <a href="https://github.com/MarquinhoCF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarquinhoCF&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinhoCF&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
@@ -17,7 +21,7 @@
  
  <br>
  
-  ### Minhas redes sociais:
+  ### My social networks:
  
 <div> 
   <a href="https://www.youtube.com/channel/UC-XOg0t3Ax_lFiPVWN4p48Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
