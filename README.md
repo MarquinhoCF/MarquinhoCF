@@ -6,12 +6,14 @@
   <summary><h3>:man_student: About me</h3></summary>
   <p>Hello and welcome to my professional profile!</p>
   <p>My name is Marcos Carvalho Ferreira, I'm 23 years old, and I work with Software Engeneering, beside to study Control and Automation Engineering in UFLA. I'm fascinated by developing web and mobile systems, and I'm committed to building a solid academic background in this field, being passionate about technology.</p>
+  
+  <br>
+  
+  <a href="https://github.com/MarquinhoCF" title="Perfil do Marcos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarquinhoCF&theme=dark&show_icons=true" />
+  </a>
+  
 </details>
-
-<div>
-  <a href="https://github.com/MarquinhoCF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinhoCF&layout=compact&langs_count=6&theme=dark"/>
-</div>
     
 <details open>
   <summary style="padding-top: 0px; margin-top: 0px;">
@@ -36,6 +38,14 @@
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
   <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+
+  <br><br>
+
+  <div>
+    <a href="https://github.com/MarquinhoCF">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinhoCF&layout=compact&langs_count=6&theme=dark"/>
+  </div>
+    
  </details>
  <br>
  
