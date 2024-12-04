@@ -52,7 +52,7 @@
 
  <details open>
   <summary style="padding-top: 0px; margin-top: 0px;">
-    <h3>:network: My social networks</h3>
+    <h3>🌐 My social networks</h3>
   </summary>
 
   <div> 
