@@ -1,11 +1,11 @@
 ## Marquinhos CF 😁
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=755&lines=Graduating+in+Control+and+Automation+Engeneering)](https://github.com/MarquinhoCF)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=755&lines=Bachelor+in+Control+and+Automation+Engeneering)](https://github.com/MarquinhoCF)
 
 <details open>
   <summary><h3>:man_student: About me</h3></summary>
-  <p>Hello and welcome to my professional profile!</p>
-  <p>My name is Marcos Carvalho Ferreira, I'm 23 years old, and I work with Software Engeneering, beside to study Control and Automation Engineering in UFLA. I'm fascinated by developing web and mobile systems, and I'm committed to building a solid academic background in this field, being passionate about technology.</p>
+  <p>Software Engineer with a background in Control and Automation Engineering, with solid knowledge in modeling and control of dynamic systems, industrial informatics, industrial robotics, embedded systems development in C++, and data science with Python.</p>
+  <p>Experience as a Full Stack Developer (front-end and back-end), working with JavaScript, React, NodeJS, Angular, Java, Spring Boot, Play, Python, Django, Dart & Flutter (mobile), databases (MySQL, PostgreSQL, Oracle), Linux, Docker, Unit Testing, Tailwind, Bootstrap, CSS, and HTML.</p>
   
   <br>
   
@@ -45,12 +45,18 @@
     <a href="https://github.com/MarquinhoCF">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinhoCF&layout=compact&langs_count=6&theme=dark"/>
   </div>
-    
- </details>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+    <img alt="Breakout Game" src="images/breakout-light.svg">
+  </picture>
+  
+</details>
  <br>
 
 
- <details open>
+<details open>
   <summary style="padding-top: 0px; margin-top: 0px;">
     <h3>🌐 My social networks</h3>
   </summary>
@@ -62,4 +68,4 @@
     <a href="https://www.linkedin.com/in/marcos-ferreira-515a59210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
    
-  </details>
+</details>
