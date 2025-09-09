@@ -7,11 +7,15 @@
   <p>Software Engineer with a background in Control and Automation Engineering, with solid knowledge in modeling and control of dynamic systems, industrial informatics, industrial robotics, embedded systems development in C++, and data science with Python.</p>
   <p>Experience as a Full Stack Developer (front-end and back-end), working with JavaScript, React, NodeJS, Angular, Java, Spring Boot, Play, Python, Django, Dart & Flutter (mobile), databases (MySQL, PostgreSQL, Oracle), Linux, Docker, Unit Testing, Tailwind, Bootstrap, CSS, and HTML.</p>
   
-  <br>
-  
   <a href="https://github.com/MarquinhoCF" title="Perfil do Marcos">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarquinhoCF&theme=dark&show_icons=true" />
   </a>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+    <img alt="Breakout Game" src="images/breakout-light.svg">
+  </picture>
   
 </details>
     
@@ -45,12 +49,6 @@
     <a href="https://github.com/MarquinhoCF">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinhoCF&layout=compact&langs_count=6&theme=dark"/>
   </div>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-    <img alt="Breakout Game" src="images/breakout-light.svg">
-  </picture>
   
 </details>
  <br>
