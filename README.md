@@ -6,10 +6,6 @@
   <summary><h3>:man_student: About me</h3></summary>
   <p>Software Engineer with a background in Control and Automation Engineering, with solid knowledge in modeling and control of dynamic systems, industrial informatics, industrial robotics, embedded systems development in C++, and data science with Python.</p>
   <p>Experience as a Full Stack Developer (front-end and back-end), working with JavaScript, React, NodeJS, Angular, Java, Spring Boot, Play, Python, Django, Dart & Flutter (mobile), databases (MySQL, PostgreSQL, Oracle), Linux, Docker, Unit Testing, Tailwind, Bootstrap, CSS, and HTML.</p>
-  
-  <a href="https://github.com/MarquinhoCF" title="Perfil do Marcos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarquinhoCF&theme=dark&show_icons=true" />
-  </a>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
@@ -44,10 +40,14 @@
   <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 
   <br><br>
-
-  <div>
+  
+  <div style="display: flex; align-items: flex-start;">
+    <a href="https://github.com/MarquinhoCF" title="Perfil do Marcos">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarquinhoCF&theme=dark&show_icons=true" />
+    </a>
     <a href="https://github.com/MarquinhoCF">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinhoCF&layout=compact&langs_count=6&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquinhoCF&layout=compact&langs_count=6&theme=dark"/>
+    </a>
   </div>
   
 </details>
