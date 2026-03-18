@@ -5,7 +5,7 @@
 <details open>
   <summary><h3>:man_student: About me</h3></summary>
   <p>Software Engineer with a background in Control and Automation Engineering, with solid knowledge in modeling and control of dynamic systems, industrial informatics, industrial robotics, embedded systems development in C++, and data science with Python.</p>
-  <p>Currently pursuing a <strong>Master's degree in Computer Science</strong> at UFLA, with a research focus on <strong>Artificial Intelligence and Optimization</strong>. My research applies <strong>Reinforcement Learning</strong> to optimize the <strong>last-mile delivery problem</strong> — check out the project below!</p>
+  <p>Currently pursuing a <strong>Master's degree in Computer Science</strong> at UFLA, with a research focus on <strong>Artificial Intelligence and Optimization</strong>. My research applies <strong>Reinforcement Learning</strong> to optimize the <strong>last-mile delivery problem</strong> check out the project below!</p>
   <p>Working as a <strong>Full Stack Junior Developer at Agência Zetta</strong>, with experience in front-end and back-end development using JavaScript, React, NodeJS, Angular, Java, Spring Boot, Play, Python, Django, Dart & Flutter (mobile), databases (MySQL, PostgreSQL, Oracle), Linux, Docker, Unit Testing, Tailwind, Bootstrap, CSS, and HTML.</p>
 
   <picture>
