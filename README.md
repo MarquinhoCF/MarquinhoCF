@@ -1,11 +1,12 @@
 ## Marquinhos CF 😁
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=755&lines=Bachelor+in+Control+and+Automation+Engeneering)](https://github.com/MarquinhoCF)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=755&lines=Master's+Student+in+Computer+Science+%7C+AI+%26+Optimization;Full+Stack+Junior+Developer+%40+Agência+Zetta;Bachelor+in+Control+and+Automation+Engineering)](https://github.com/MarquinhoCF)
 
 <details open>
   <summary><h3>:man_student: About me</h3></summary>
   <p>Software Engineer with a background in Control and Automation Engineering, with solid knowledge in modeling and control of dynamic systems, industrial informatics, industrial robotics, embedded systems development in C++, and data science with Python.</p>
-  <p>Experience as a Full Stack Developer (front-end and back-end), working with JavaScript, React, NodeJS, Angular, Java, Spring Boot, Play, Python, Django, Dart & Flutter (mobile), databases (MySQL, PostgreSQL, Oracle), Linux, Docker, Unit Testing, Tailwind, Bootstrap, CSS, and HTML.</p>
+  <p>Currently pursuing a <strong>Master's degree in Computer Science</strong> at UFLA, with a research focus on <strong>Artificial Intelligence and Optimization</strong>. My research applies <strong>Reinforcement Learning</strong> to optimize the <strong>last-mile delivery problem</strong> — check out the project below!</p>
+  <p>Working as a <strong>Full Stack Junior Developer at Agência Zetta</strong>, with experience in front-end and back-end development using JavaScript, React, NodeJS, Angular, Java, Spring Boot, Play, Python, Django, Dart & Flutter (mobile), databases (MySQL, PostgreSQL, Oracle), Linux, Docker, Unit Testing, Tailwind, Bootstrap, CSS, and HTML.</p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
@@ -13,6 +14,16 @@
     <img alt="Breakout Game" src="images/breakout-light.svg">
   </picture>
   
+</details>
+
+<details open>
+  <summary><h3>🤖 Current Research</h3></summary>
+  <p>
+    I'm currently working on a research project that uses <strong>Reinforcement Learning</strong> to solve the <strong>Last-Mile Delivery Problem</strong>. The goal is to train intelligent agents to optimize delivery routes and decisions in dynamic urban environments.
+  </p>
+  <p>
+    🔗 <a href="https://github.com/MarquinhoCF/food-delivery-gym"><strong>food-delivery-gym</strong></a> — A custom OpenAI Gym environment for food delivery route optimization using Reinforcement Learning.
+  </p>
 </details>
     
 <details open>
@@ -27,7 +38,6 @@
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img align="left" alt="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" style="padding-right:10px;" />
-
   <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
